@@ -63,8 +63,8 @@ img {
 }
 
 .nav-list a:hover {
-  background-color: grey;
-  opacity: 0.3;
+  text-transform: uppercase;
+  font-weight: bolder;
 }
 
 /* self introduction */
